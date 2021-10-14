@@ -1,0 +1,18 @@
+{
+  "name": "rate-limiter",
+  "version": "1.0.0",
+  "description": "Cross Concern API Rate Limiter",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhimanyu Malik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.5.0",
+    "nodemon": "^2.0.13"
+  }
+}
