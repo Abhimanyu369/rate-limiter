@@ -13,9 +13,6 @@ npm start
 - Express Rate Limiter
 - Dotenv
 
-## Features
-
-
 ## Plugins
 
 Dillinger is currently extended with the following plugins.
